@@ -1,0 +1,72 @@
+body {
+    background-color: #FFE4E1;
+}
+
+.bold {
+    font-size: 13px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.li {
+    font-size: 20px;
+}
+
+.zad3 {
+    color: blue;
+}
+.test {
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+}
+.center {
+   list-style-type: inside;
+   display: inline-block}
+li{
+text-align: left;
+}
+
+.zad4 {
+    color: red;
+}
+.za4 {
+    font-size: 20px;
+}
+
+.zad6 {
+    color: red;
+}
+.zad7 {
+    color: orange;
+}
+
+.container {
+    padding: 20px;
+    border: 1px solid black;
+    width: fit-content;
+    background-color: yellow;
+}
+.red { color: darkred; font-weight: bold; }
+.green { color: green; font-weight: bold; }
+.blue { color: darkblue; font-weight: bold; }
+
+.zad8 {
+    color: blue;
+}
+
+.category {
+    color: red;
+}
+.sub-category {
+    color: green;
+}
+
+.container1 {
+    padding: 20px;
+    border: 1px solid black;
+    width: fit-content;
+    background-color: tan;
+}
+
+
+
